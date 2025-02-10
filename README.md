@@ -3,15 +3,15 @@ Soy **Técnica en Programación y Desarrolladora web Full Stack**. Aunque mi enf
 
 ## Tecnologías y Herramientas
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express. Nest.js
+- **Backend:** Node.js, Express, NestJs
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB
 - **Otros:** Git, APIs REST, npm
 
 ## 🚀 Proyectos
 - ["GreenHeart"](https://github.com/AilenFranco43/g6-codoAcodo) - Proyecto colaborativo de e-commerce eco-friendly desarrollado durante el curso Codo a Codo - Full stack.
-- ["ChangasApp"](https://github.com/AilenFranco43/g6-codoAcodo) - Aplicación web para contratación de servicios como plomería, jardinería, etc.(Proyecto colaborativo de No Country) 
-- ["Booked"](https://github.com/AilenFranco43/g6-codoAcodo) - Plataforma de reservas de propiedades para alquileres temporales.(Proyecto colaborativo de No Country) 
-- ["PawPet"](https://github.com/AilenFranco43/g6-codoAcodo) - Plataforma para conectar cuidadores y paseadores de mascotas con dueños, optimizando la búsqueda y contratación de servicios.(Proyecto colaborativo de No Country) 
+- ["ChangasApp"](https://github.com/No-Country-simulation/c20-06-ft-node-react) - Aplicación web para contratación de servicios como plomería, jardinería, etc.(Proyecto colaborativo de No Country) 
+- ["Booked"](https://github.com/No-Country-simulation/s18-24-t-node-react) - Plataforma de reservas de propiedades para alquileres temporales.(Proyecto colaborativo de No Country) 
+- ["PawPet"](https://github.com/No-Country-simulation/s20-13-webapp) - Plataforma para conectar cuidadores y paseadores de mascotas con dueños, optimizando la búsqueda y contratación de servicios.(Proyecto colaborativo de No Country) 
 - 
 
 ## 📫 Contactame
@@ -24,15 +24,15 @@ I'm **Programming Technician and Full Stack Web Developer**. Although my main fo
 
 ## Technologies and Tools
 - Frontend:** HTML, CSS, JavaScript, React
-- Backend:** Node.js, Express. Nest.js
+- Backend:** Node.js, Express, NestJs
 - Databases:** MySQL, PostgreSQL, MongoDB
 - **Others:** Git, REST APIs, npm
 
 ## 🚀 Projects
 - [“GreenHeart”](https://github.com/AilenFranco43/g6-codoAcodo) - Collaborative eco-friendly e-commerce project developed during the Codo a Codo course - Full stack.
-- [“ChangasApp”](https://github.com/AilenFranco43/g6-codoAcodo) - Web application for hiring services such as plumbing, gardening, etc.(No Country collaborative project). 
-- [“Booked”](https://github.com/AilenFranco43/g6-codoAcodo) - Property booking platform for temporary rentals (No Country collaborative project). 
-- [“PawPet”](https://github.com/AilenFranco43/g6-codoAcodo) - Platform to connect pet sitters and pet walkers with owners, optimizing the search and hiring of services.(No Country collaborative project) 
+- [“ChangasApp”](https://github.com/No-Country-simulation/c20-06-ft-node-react) - Web application for hiring services such as plumbing, gardening, etc.(No Country collaborative project). 
+- [“Booked”](https://github.com/No-Country-simulation/s18-24-t-node-react) - Property booking platform for temporary rentals (No Country collaborative project). 
+- [“PawPet”](https://github.com/No-Country-simulation/s20-13-webapp) - Platform to connect pet sitters and pet walkers with owners, optimizing the search and hiring of services.(No Country collaborative project) 
 - 
 
 ## 📫 Contact me
