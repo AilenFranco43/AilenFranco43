@@ -3,8 +3,8 @@ Soy **Técnica en Programación y Desarrolladora web Full Stack**. Aunque mi enf
 
 ## Tecnologías y Herramientas
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Bases de datos:** MySQL
+- **Backend:** Node.js, Express. Nest.js
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB
 - **Otros:** Git, APIs REST, npm
 
 ## 🚀 Proyectos
