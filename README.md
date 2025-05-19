@@ -1,7 +1,7 @@
 # 👋 Hola! Soy Ailén...Bienvenido/a a mi servidor de ideas😉
 Soy **Técnica en Programación y Desarrolladora web Full Stack**. Aunque mi enfoque principal está en el desarrollo web, soy muy curiosa y estoy siempre predispuesta a expandir mis conocimientos, explorar nuevos lenguajes y herramientas para contribuir de manera efectiva y adaptarme a las necesidades de los proyectos en los que participo.
 
-### 🛠 Tecnologías y Herramientas
+## 🛠 Tecnologías y Herramientas
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
