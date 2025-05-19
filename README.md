@@ -1,11 +1,21 @@
 # 👋 Hola! Soy Ailén...Bienvenido/a a mi servidor de ideas😉
 Soy **Técnica en Programación y Desarrolladora web Full Stack**. Aunque mi enfoque principal está en el desarrollo web, soy muy curiosa y estoy siempre predispuesta a expandir mis conocimientos, explorar nuevos lenguajes y herramientas para contribuir de manera efectiva y adaptarme a las necesidades de los proyectos en los que participo.
 
-## Tecnologías y Herramientas
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, NestJs
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB
-- **Otros:** Git, APIs REST, npm
+### 🛠 Tecnologías y Herramientas
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
+
 
 ## 🚀 Proyectos
 - ["GreenHeart"](https://github.com/AilenFranco43/g6-codoAcodo) - Proyecto colaborativo de e-commerce eco-friendly desarrollado durante el curso Codo a Codo - Full stack.
@@ -23,10 +33,18 @@ Soy **Técnica en Programación y Desarrolladora web Full Stack**. Aunque mi enf
 I'm **Programming Technician and Full Stack Web Developer**. Although my main focus is on web development, I am very curious and I am always predisposed to expand my knowledge, explore new languages and tools to contribute effectively and adapt to the needs of the projects in which I participate.
 
 ## Technologies and Tools
-- Frontend:** HTML, CSS, JavaScript, React
-- Backend:** Node.js, Express, NestJs
-- Databases:** MySQL, PostgreSQL, MongoDB
-- **Others:** Git, REST APIs, npm
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 
 ## 🚀 Projects
 - [“GreenHeart”](https://github.com/AilenFranco43/g6-codoAcodo) - Collaborative eco-friendly e-commerce project developed during the Codo a Codo course - Full stack.
