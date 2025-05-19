@@ -32,7 +32,7 @@ Soy **Técnica en Programación y Desarrolladora web Full Stack**. Aunque mi enf
 # Hello! I'm Ailén...Welcome to my ideas server😉.
 I'm **Programming Technician and Full Stack Web Developer**. Although my main focus is on web development, I am very curious and I am always predisposed to expand my knowledge, explore new languages and tools to contribute effectively and adapt to the needs of the projects in which I participate.
 
-## Technologies and Tools
+## 🛠 Technologies and Tools
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
