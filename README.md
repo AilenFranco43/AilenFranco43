@@ -29,7 +29,7 @@ Soy **Técnica en Programación y Desarrolladora web Full Stack**. Aunque mi enf
 - [Correo electrónico](mailto:ailenfranco43@gmail.com)
 
 
-# Hello! I'm Ailén...Welcome to my ideas server😉.
+# Hello! I'm Ailén...Welcome to my ideas server😉
 I'm **Programming Technician and Full Stack Web Developer**. Although my main focus is on web development, I am very curious and I am always predisposed to expand my knowledge, explore new languages and tools to contribute effectively and adapt to the needs of the projects in which I participate.
 
 ## 🛠 Technologies and Tools
