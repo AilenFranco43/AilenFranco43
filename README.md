@@ -107,7 +107,7 @@ React • Node.js • Express • PostgreSQL • Docker • Sequelize
 Podés ver más sobre mis proyectos y mi trabajo en:
 
 🔗 **Portfolio**
-https://tu-portfolio.com
+https://portfolio-wheat-mu-60.vercel.app/
 
 ---
 
